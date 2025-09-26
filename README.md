@@ -276,16 +276,19 @@ int main()
 
 
 **Output :**
+
 ![alt text](1.jpg)
 
 ![alt text](polygon.jpg)
 
 **Translation**
+
 ![alt text](translation.jpg)
 
 **Scaling**
 
 ![alt text](scaling.jpg)
+
 **Rotation**
 
 ![alt text](rotation.jpg)
@@ -293,6 +296,7 @@ int main()
 **Reflection**
 
 ![alt text](reflection.jpg)
+
 **Shearing**
 
 ![alt text](shearing.jpg)
