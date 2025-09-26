@@ -277,19 +277,12 @@ int main()
 
 **Output :**
 
-![1](https://github.com/user-attachments/assets/6ed177e4-03b9-4a79-849f-c99156412249)
 
-![polygon](https://github.com/user-attachments/assets/195d7a9a-ceea-474e-bf73-e92ba67ca35c)
 **Translation**
-![translation](https://github.com/user-attachments/assets/815ce55d-56ea-4b2b-bab2-2a1068bc0d2d)
 **Scaling**
-![scaling](https://github.com/user-attachments/assets/629985a5-4847-43da-b7db-74509828163b)
 **Rotation**
-![rotation](https://github.com/user-attachments/assets/007eb11e-b22e-4467-b815-a0ea88fbf97e)
 **Reflection**
-![reflection](https://github.com/user-attachments/assets/10c348fa-a6ef-457c-adf9-09b52716601c)
 **Shearing**
-![shearing](https://github.com/user-attachments/assets/e5f27a86-b304-433e-b57b-330e81a6310c)
 
 **Result :**
  Successfully completed a C program to implement 2D transformation of image.
